@@ -24,10 +24,10 @@
   - Herramientas de control de versiones (Git y GitHub)
 - **Idiomas:** 
   - Español (nativo)
-  - Inglés (intermedio)
+  - Inglés (avanzado)
 - **Intereses:**
   - Inteligencia Artificial
-  - Ciberseguridad
+  - Desarrollo de APIs
   - Desarrollo de aplicaciones móviles
   - Contribución a proyectos open source
 
@@ -42,9 +42,6 @@ Mi objetivo es consolidar mis conocimientos en ingeniería de software, particip
 ## 📫 Contacto
 
 - **GitHub:** [andrees205](https://github.com/andrees205)
-- **Correo electrónico:** [TuEmail@ejemplo.com] <!-- Actualízalo a tu correo real -->
-- **LinkedIn:** [TuPerfilLinkedIn] <!-- Añade tu enlace si tienes perfil -->
+- **Correo electrónico:** andresgalan725@gmail.com
 
 ---
-
-> _“El aprendizaje continuo es la clave para la innovación y el éxito en el mundo tecnológico.”_
