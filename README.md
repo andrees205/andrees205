@@ -57,11 +57,8 @@ Hi! I'm Andrés, a software engineering student at **UNICAES** (Universidad Cat�
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrees205&show_icons=true&theme=radical" alt="andrees205's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrees205&layout=compact&hide=css,html&theme=tokyonight" alt="Top Languages" />
-</p>
+![andrees205's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrees205&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrees205&layout=compact&theme=radical)
 
 ---
 
