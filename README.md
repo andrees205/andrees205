@@ -1,4 +1,4 @@
-# 👨‍💻 Andrés Galán — @andrees205
+# Andrés Galán — @andrees205
 
 **Software Engineering Student | Advanced English | Blockchain & Networking Enthusiast**
 
@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hi! I'm Andrés, a passionate software engineering student at **UNICAES** (Universidad Católica de El Salvador) with a strong background in Java and TypeScript. I love building scalable solutions, learning about emerging technologies, and collaborating in agile environments. I have advanced English proficiency and enjoy taking on technical challenges in both development and infrastructure.
+Hi! I'm Andrés, a software engineering student at **UNICAES** (Universidad Católica de El Salvador) with a strong background in Java and TypeScript. I love building scalable solutions, learning about emerging technologies, and collaborating in agile environments. I have advanced English proficiency and enjoy taking on technical challenges in both development and infrastructure.
 
 ---
 
