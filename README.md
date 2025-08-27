@@ -75,10 +75,9 @@ Hi! I'm Andrés, a passionate software engineering student at **UNICAES** (Unive
 ## 📫 Contact
 
 - **GitHub:** [andrees205](https://github.com/andrees205)
-- **LinkedIn:** [Your LinkedIn](#) <!-- Puedes actualizar el enlace si tienes perfil -->
 
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by Andrés E. Salazar</sub>
+  <sub>Andrés Galán</sub>
 </div>
