@@ -19,7 +19,7 @@
 
 ## 📫 Contact
 
-- **Linkedin:** [Andrés Galán](linkedin.com/in/andrés-galán)
+- **Linkedin:** [Andrés Galán]([linkedin.com/in/andrés-galán](https://www.linkedin.com/in/andr%C3%A9s-gal%C3%A1n/))
 
 ---
 
