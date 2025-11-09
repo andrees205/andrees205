@@ -19,7 +19,7 @@
 
 ## 📫 Contact
 
-- **GitHub:** [andrees205](https://github.com/andrees205)
+- **Linkedin:** [Andrés Galán](linkedin.com/in/andrés-galán)
 
 ---
 
